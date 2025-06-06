@@ -41,7 +41,8 @@ Desarrollador apasionado por crear soluciones innovadoras y funcionales. Me enca
 
 ## 📊 Estadísticas de GitHub
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Th3Danny&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Danny&layout=compact&theme=dark)
 
 <!---
 Th3Danny/Th3Danny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
