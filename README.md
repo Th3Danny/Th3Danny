@@ -33,12 +33,6 @@ Desarrollador apasionado por crear soluciones innovadoras y funcionales. Me enca
 
 
 
-## 🌱 Actualmente aprendiendo
-- Microservicios con Spring Boot y Node.js
-- DevOps y automatización con AWS
-- Optimización de performance en React
-
-
 ## 📊 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Th3Danny&show_icons=true&theme=dark)
