@@ -20,7 +20,7 @@ Desarrollador apasionado por crear soluciones innovadoras y funcionales. Me enca
 - **SQL:** MySQL, PostgreSQL
 
 ### ☁️ Cloud & DevOps
-- **Cloud:** AWS (EC2, S3, Lambda)
+- **Cloud:** AWS (EC2, S3)
 - **Web Servers:** Nginx
 - **Deployment:** Vercel, GitHub Actions
 - **Containerización:** Docker
