@@ -15,7 +15,7 @@
 ```typescript
 const gerson = {
   alias     : "Th3Danny",
-  ubicacion : "México 🇲🇽",
+  ubicacion : "Chiapas 🇲🇽",
   rol       : "Full Stack Developer",
   enfoque   : ["Clean Architecture", "Scalable APIs", "Mobile Dev"],
   stack     : {
@@ -25,7 +25,7 @@ const gerson = {
     cloud     : ["AWS (EC2, S3)", "Docker", "Nginx", "GitHub Actions"],
   },
   principios: ["SOLID", "DRY", "KISS", "Arquitectura Hexagonal"],
-  aprendiendo: "siempre algo nuevo ☕",
+  aprendiendo: "siempre algo nuevo ",
 };
 ```
 
