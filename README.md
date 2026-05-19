@@ -1,10 +1,8 @@
 <div align="center">
 
-<!--  HEADER ANIMADO  -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gerson%20Daniel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gerson%20Daniel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<!-- TYPING EFFECT -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+scalable+solutions+%F0%9F%9A%80;Clean+Architecture+%7C+SOLID+%7C+DRY;Full+Stack+%7C+Cloud+%7C+DevOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=110&lines=Construyendo+soluciones+escalables;Arquitectura+Limpia+%7C+SOLID+%7C+DRY;Desarrollo+Full+Stack+%7C+Cloud)](https://git.io/typing-svg)
 
 </div>
 
