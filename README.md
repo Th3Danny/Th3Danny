@@ -22,7 +22,9 @@ const gerson = {
     databases : ["SQL Server", "MySQL", "PostgreSQL"],
     cloud     : ["AWS (EC2, S3)", "Docker", "Nginx", "GitHub Actions"],
   },
-  principios: ["SOLID", "DRY", "KISS", "Arquitectura Hexagonal"],
+  arquitectura : ["Clean Architecture", "Hexagonal Architecture", "Layered Architecture"],
+  patrones : ["MVC", "MVVM", "MVC5"],
+  principios : ["SOLID", "DRY", "KISS"],
   aprendiendo: "siempre algo nuevo ",
 };
 ```
