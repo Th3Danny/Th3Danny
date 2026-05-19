@@ -15,9 +15,9 @@ const gerson = {
   alias     : "Th3Danny",
   ubicacion : "Chiapas 🇲🇽",
   rol       : "Full Stack Developer",
-  enfoque   : ["Clean Architecture", "Scalable APIs", "Mobile Dev"],
+  enfoque   : ["Frontend", "Backend", "Mobile"],
   stack     : {
-    frontend  : ["React", "Flutter", "Kotlin", "Web Components"],
+    frontend  : ["React", "Angular", "Flutter", "Kotlin", "Web Components"],
     backend   : ["Node.js/Express", "Spring Boot", "Flask", "ASP.NET MVC"],
     databases : ["SQL Server", "MySQL", "PostgreSQL"],
     cloud     : ["AWS (EC2, S3)", "Docker", "Nginx", "GitHub Actions"],
